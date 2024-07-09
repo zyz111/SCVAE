@@ -8,3 +8,7 @@ Sample 1    |  Sample 2
 Visualization without adding a moving agent    |  Visualization with adding a moving agent
 :-----------------:|:-----------------:
 ![trajectorydemo__outobstacle](https://github.com/zyz111/SCVAE/assets/26818557/b8ec8c77-5485-4dff-a3ff-44a38c96f05a) | ![trajectorydemo_obastacle](https://github.com/zyz111/SCVAE/assets/26818557/0162bd22-ef08-4290-b3a1-56ebb0a479d0)
+
+Visualization without adding a moving agent    |  Visualization with adding a moving agent
+:-----------------:|:-----------------:
+![Figout](https://github.com/zyz111/SCVAE/assets/26818557/a3743174-c305-4fdb-8578-3e1536c366c5) | ![Figobstacle](https://github.com/zyz111/SCVAE/assets/26818557/998a0961-2f3d-46e5-9bfc-55aee502b927)
