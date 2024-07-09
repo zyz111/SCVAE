@@ -6,4 +6,4 @@ Sample 1    |  Sample 2
 **2） The performance of method adding a moving agent**
 Visualization without adding a moving agent    |  Visualization with adding a moving agent
 :-----------------:|:-----------------:
-![trajectorydemo_4_3](https://github.com/zyz111/SCVAE/assets/26818557/4ee7bc3f-b61a-446a-978f-55010efff019) |![trajectorydemo_4_3](https://github.com/zyz111/SCVAE/assets/26818557/4ee7bc3f-b61a-446a-978f-55010efff019)
+![trajectorydemo__outobstacle](https://github.com/zyz111/SCVAE/assets/26818557/b8ec8c77-5485-4dff-a3ff-44a38c96f05a) | ![trajectorydemo_obastacle(https://github.com/zyz111/SCVAE/assets/26818557/81b6f2ba-06cc-4c8f-b112-5daef10b1bfe)
