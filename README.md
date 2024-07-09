@@ -13,6 +13,4 @@ Figure without adding a moving agent    |  Figure with adding a moving agent
 :-----------------:|:-----------------:
 ![Figout](https://github.com/zyz111/SCVAE/assets/26818557/a3743174-c305-4fdb-8578-3e1536c366c5) | ![Figobstacle](https://github.com/zyz111/SCVAE/assets/26818557/998a0961-2f3d-46e5-9bfc-55aee502b927)
 
-**2）Visualization of prediction trajectory with motion behavior of U type**
-![Fig1u](https://github.com/zyz111/SCVAE/assets/26818557/f885a2e5-7fa4-40ee-8003-c51d44cab0f1)
 
