@@ -1,4 +1,4 @@
-![fig1](https://github.com/user-attachments/assets/11186ca4-9ff3-4912-ba78-a56effbe4a02)# SCVAE
+# SCVAE
 **1） Time cost in practical scenarios**
 Sample 1    |  Sample 2
 :-----------------:|:-----------------:
