@@ -1,4 +1,4 @@
-# SCVAE
+![fig1](https://github.com/user-attachments/assets/11186ca4-9ff3-4912-ba78-a56effbe4a02)# SCVAE
 **1） Time cost in practical scenarios**
 Sample 1    |  Sample 2
 :-----------------:|:-----------------:
@@ -11,6 +11,6 @@ Visualization without adding a moving agent    |  Visualization with adding a mo
 
 Figure without adding a moving agent    |  Figure with adding a moving agent
 :-----------------:|:-----------------:
-![Figout](https://github.com/zyz111/SCVAE/assets/26818557/a3743174-c305-4fdb-8578-3e1536c366c5) | ![Figobstacle](https://github.com/zyz111/SCVAE/assets/26818557/998a0961-2f3d-46e5-9bfc-55aee502b927)
+![fig1](https://github.com/user-attachments/assets/da4a3338-c4bc-4b39-880d-c8e85b69a273) | ![Figobstacle](https://github.com/zyz111/SCVAE/assets/26818557/998a0961-2f3d-46e5-9bfc-55aee502b927)
 
 
