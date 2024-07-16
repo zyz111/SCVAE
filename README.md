@@ -1,4 +1,4 @@
-# SCVAE
+# S-CVAE
 **1） Time cost in practical scenarios**
 Sample 1    |  Sample 2
 :-----------------:|:-----------------:
