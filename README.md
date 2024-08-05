@@ -1,5 +1,5 @@
 # S-CVAE
-'We uploaded the portion of our key code about Incremental Greedy Region, and the complete code will be uploaded when the work is officially accepted.'
+'We uploaded the portion of our key code about Incremental Greedy Region, and the available code will be uploaded when the work is officially accepted.'
 
 
 **1） Time cost in practical scenarios**
